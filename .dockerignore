@@ -1,0 +1,9 @@
+# só os arquivos do jogo entram no servidor; referências e ferramentas ficam de fora
+.git
+.gitignore
+.claude
+Dockerfile
+.dockerignore
+README.md
+referencias
+ferramentas

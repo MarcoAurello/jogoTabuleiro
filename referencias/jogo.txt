@@ -1,0 +1,19 @@
+jogo inicia com 5 pe;as em cima, 5 em baixo e o tabuleiro
+
+o objetivo e colocar as 5 do outro lado
+
+nao se come peça 
+nao se pula peça
+
+opçao contra a maquina
+ou contra outro usuario
+
+existe 2 cronometros 1 para cada jogador, 
+o cronometro so esta ativo quando o atual jogador esta jogando
+
+
+habilidades
+atenção planejamento,  controle inibitorio e percepção de soluções diversas
+
+
+neuropsicopedagoga nagila Jamaica
