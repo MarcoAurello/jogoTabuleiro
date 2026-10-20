@@ -142,7 +142,7 @@ body {
 .pro-sprite.mini { width: 46px; height: 70px; }
 /* Nágila em destaque no tabuleiro, no recorte branco da direita (entre as casas R1, MR e R2) */
 .pro-sprite.pro-tabuleiro {
-  position: absolute; left: 90.5%; top: 50%; width: 19%; height: 24%; transform: translate(-50%, -50%);
+  position: absolute; left: 92.5%; top: 50%; width: 17.5%; height: 22.5%; transform: translate(-50%, -50%);
   pointer-events: none; z-index: 1; filter: drop-shadow(0 0.8cqw 0.8cqw rgba(29, 43, 74, 0.35));
 }
 .pro-sprite.pro-tabuleiro::before {   /* brilho dourado atrás da Nágila */
